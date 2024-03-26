@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Immagini/eyeIcon.png</file>
+        <file>Immagini/notEyeIcon.png</file>
+        <file>Immagini/exit.png</file>
+        <file>Immagini/profile.png</file>
+        <file>Immagini/carrello.png</file>
+        <file>Immagini/modifica.png</file>
+        <file>Immagini/casa.png</file>
+        <file>Immagini/bus.png</file>
+        <file>Immagini/libro.png</file>
+        <file>Immagini/maglia.png</file>
+        <file>Immagini/panino.png</file>
+        <file>Immagini/catalogo.png</file>
+        <file>Immagini/add.png</file>
+        <file>Database/DatabasePAO.db</file>
+    </qresource>
+</RCC>

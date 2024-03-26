@@ -1,4 +1,4 @@
-#Il fuorisede disperato
+# Il fuorisede disperato
 
 Il fuorisede disperato è una piattaforma di e-commerce che nasce osservando le necessità e le difficoltà di uno studente
 fuorisede. La piattaforma raccoglie una serie di prodotti necessari a uno studente per vivere da fuorisede, come libri,
